@@ -1,0 +1,5 @@
+{
+  "name": "Neon Breakout Trilogy",
+  "description": "A classic arcade brick-breaking game featuring 3 unique levels, progressive difficulty, and retro neon aesthetics.\n設計出一個打磚塊遊戲的網頁遊戲，共三關，要有開始畫面及過關畫面",
+  "requestFramePermissions": []
+}
